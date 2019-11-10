@@ -1,0 +1,115 @@
+* {
+  font-family: helvetica, sans-serif;
+}
+
+
+
+
+
+/*Profile Styling*/
+.portfolio-image{
+  border: grey solid 5px;
+  border-radius: 90%;
+  margin: 1% 0 0 1%;
+}
+
+.portfolio-image:hover {
+  border: lightblue solid 5px;
+}
+
+.title-words {
+  margin: -15% 3% 10% 35%;
+  font-size: 1.5em;
+  color: grey;
+}
+
+    /* Header Styling */
+.header-class {
+  border-bottom: grey solid 10px;
+}
+
+  /*Navigation Styling*/
+.Navigation {
+  text-align: center;
+  margin-bottom: 3%;
+}
+
+
+.Links {
+  text-align:center;
+  color: black;
+  decoration: !important none;
+  font-size: 1.2em;
+  margin: .25% 5% 4% 5%;
+}
+
+.Links:hover {
+  color: lightblue;
+}
+
+/* Skills Background Styling */
+.skills-styling {
+  background: lightblue;
+  border: grey solid 2px;
+  margin-top: 1%;
+  margin-bottom: 6%;
+}
+
+.paragraph1 {
+  margin: -12% 20% 5% 20%;
+  font-size: 1.25em;
+  color: grey;
+}
+
+.paragraph2 {
+  margin: -12% 20% 5% 20%;
+  font-size: 1.25em;
+  color: grey;
+}
+
+.paragraph3 {
+  margin: -12% 20% 5% 20%;
+  font-size: 1.25em;
+  color: grey;
+}
+
+.paragraph4 {
+  margin: -12% 20% 5% 20%;
+  font-size: 1.25em;
+  color: grey;
+}
+
+/* Experience Styling */
+
+.experience-styling {
+  background: lightblue;
+  border: grey solid 2px;
+  margin-top: 1%;
+  margin-bottom: 12%;
+}
+
+.paragraph8 {
+  margin: -25% 20% 5% 20%;
+  font-size: 1.25em;
+  color: grey;
+}
+
+.paragraph6 {
+  margin: -20% 20% 5% 20%;
+  font-size: 1.25em;
+  color: grey;
+}
+
+.paragraph7 {
+  margin: -20% 20% 5% 20%;
+  font-size: 1.25em;
+  color: grey;
+}
+
+.profile-styling {
+  background: lightblue;
+  border: grey solid 2px;
+  margin-top: 1%;
+  margin-bottom: 6%;
+  text-align: center;
+}
